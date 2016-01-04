@@ -2,15 +2,21 @@
     <channel>
         <title><![CDATA[sammo543]]></title>
         <description><![CDATA[sammo543]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sammo543/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 17:22:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 17:24:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sammo543/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/sammo543/265bd296-a03b-4ebe-8ab9-5ceca9e48cf7/index.html</link>
+            <guid isPermaLink="false">265bd296-a03b-4ebe-8ab9-5ceca9e48cf7</guid>
+            <pubDate>Mon, 04 Jan 2016 17:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[要打破心智模式，比分離原子還難]]></title>
             <description><![CDATA[<article><h1>要打破心智模式，比分離原子還難</h1><p>要打破心智模式，比分離原子還難。
 </p></article>]]></description>
-            <link>undefined2d766c0f-7b27-4aa2-9451-92a1259a7b3e/index.html</link>
+            <link>https://thegrid.ai/sammo543/2d766c0f-7b27-4aa2-9451-92a1259a7b3e/index.html</link>
             <guid isPermaLink="false">2d766c0f-7b27-4aa2-9451-92a1259a7b3e</guid>
             <pubDate>Mon, 04 Jan 2016 17:22:21 GMT</pubDate>
         </item>
